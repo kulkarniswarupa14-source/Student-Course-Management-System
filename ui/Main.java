@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
-
+// submission change
     private static final Scanner scanner = new Scanner(System.in);
     private static final StudentService studentService = new StudentService();
     private static final CourseService courseService = new CourseService();
